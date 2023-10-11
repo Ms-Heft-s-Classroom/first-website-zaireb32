@@ -1,0 +1,32 @@
+.myImage {
+  background-image: url("21122632764_aca2a00324_b.jpg");
+} 
+h3 {
+  color: greenyellow;
+  font-size: 24px;
+  text-shadow: -2px 2px black;
+}
+ol { color: aqua;
+  font-size: 16px;
+  text-shadow: -2px 2px black;
+}
+h1 {
+  color: rgba(206, 193, 32, 0.9);
+  font-size: 24px;
+  text-shadow: -2px 2px black;
+}
+
+
+p { color: aqua;
+  font-size: 20px;
+  text-shadow: -2px 2px black;
+}                                                                                               ul
+{ color: aqua;
+  font-size: 16px;
+  text-shadow: -2px 2px black;}
+h2 {
+  color: red;
+  font-size: 24px;
+  text-shadow: -2px 2px black;
+}
+ 
