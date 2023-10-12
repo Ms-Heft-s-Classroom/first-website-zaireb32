@@ -1,0 +1,41 @@
+  body {  background-color: rgb(237, 237, 237);}
+
+h1 {
+  font-family: sans-serif;
+  color: #d9faef 
+}
+
+p {
+  text-align: left;
+  font-family: fantasy;
+  font-size: 20px;
+  width: 270px;
+  color: #fafafa
+} 
+
+
+img {
+  float: l;
+  width: 270px;
+  margin: 10px;
+  border-color: #000000;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+h3 {
+  font-family: sans-serif;
+  color: #080000;https://codeprojects.org/projects/weblab/sXf7j1htPlsMAzkedWA9Sn5gjBVqBIkQoQodTgk0nJ8
+}
+p  { text-decoration: underline;}
+h1 { text-decoration: underline;}
+h3 {text-decoration: underline;}
+.zaire {
+  border-style:ridge;
+  border-color:crimson;
+  background-color:rgba(220, 20, 60, 0.13);
+  color:#0b0000;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding: 5px;
+}
